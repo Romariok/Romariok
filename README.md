@@ -12,6 +12,8 @@
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"/>
+  
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
