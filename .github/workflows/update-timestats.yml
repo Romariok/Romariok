@@ -14,9 +14,9 @@ jobs:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
           COMMIT_USERNAME: "Romariok"
+          COMMIT_EMAIL: "alexeasy11@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_EMAIL: "alexeasy11@gmail.com"
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
