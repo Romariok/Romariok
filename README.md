@@ -8,7 +8,7 @@ education: ["Bachelor's in soft engineering"]
 company: ITMO
 currently_learning: ["Python", "Rust"]
 will_learn: ["Machine Learning"]
-hobbies: ["Violin", "Guitar", "Competitive Gaming"]
+hobbies: ["Violin", "Guitar", "Gaming addict", "Reading Manga"]
 ```
 
 <p align="center">
@@ -25,6 +25,12 @@ hobbies: ["Violin", "Guitar", "Competitive Gaming"]
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
+
+## Language and Tools 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+
+## Contact me 📞
 
 
 <p align="center">
