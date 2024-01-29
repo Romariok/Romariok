@@ -9,11 +9,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: romariok/waka-readme-stats@master
+      - uses: Romariok/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "romariok"
+          COMMIT_USERNAME: "Romariok"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
