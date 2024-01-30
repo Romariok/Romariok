@@ -22,7 +22,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 </p>
 
 
-
+![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue)
 
