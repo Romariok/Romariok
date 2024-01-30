@@ -22,7 +22,6 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Reading Manga"]
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
