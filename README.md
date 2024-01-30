@@ -24,29 +24,29 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 125.4 kB Used in GitHub's Storage 
+> 📦 188.1 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
+> 🏆 40 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-🌆 Daytime                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌃 Evening                88 commits          ███████████░░░░░░░░░░░░░░   42.72 % 
-🌙 Night                  74 commits          █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌆 Daytime                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌃 Evening                92 commits          ██████████░░░░░░░░░░░░░░░   41.63 % 
+🌙 Night                  74 commits          ████████░░░░░░░░░░░░░░░░░   33.48 % 
 ```
 
 
@@ -65,7 +65,7 @@ Romariok                 1 hr 54 mins        ███████████�
 ```
 
 
- Last Updated on 30/01/2024 02:02:16 UTC
+ Last Updated on 30/01/2024 12:14:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
