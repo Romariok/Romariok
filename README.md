@@ -15,13 +15,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 </p>
 
 ## I love music 🎧
-
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=312s5gukxu3izmomfk6sjce5wzo4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=312s5gukxu3izmomfk6sjce5wzo4&unique={true}">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=312s5gukxu3izmomfk6sjce5wzo4">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=312s5gukxu3izmomfk6sjce5wzo4" alt="Data Card for Spotify">
+</a>
 </p>
 
 
