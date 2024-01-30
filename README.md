@@ -6,8 +6,8 @@ located_in: Saint-Petersburg
 from: Irkutsk (Russia)
 education: ["Bachelor's in soft engineering"]
 company: ITMO
-currently_learning: ["Python", "Rust"]
-will_learn: ["Machine Learning"]
+currently_learning: ["Python", "ML"]
+will_learn: ["Rust"]
 hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 ```
 <p align="center">
@@ -17,7 +17,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 ## I love music 🎧
 <p align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=312s5gukxu3izmomfk6sjce5wzo4">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=312s5gukxu3izmomfk6sjce5wzo4" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=312s5gukxu3izmomfk6sjce5wzo4&hide_top_tracks=1&hide_title=1" alt="Data Card for Spotify">
 </a>
 </p>
 
