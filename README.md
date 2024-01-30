@@ -98,5 +98,7 @@ No activity tracked
 
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
+  <br/>
+   Leave a ⭐ if you like it
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
