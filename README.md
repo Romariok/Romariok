@@ -8,8 +8,11 @@ education: ["Bachelor's in soft engineering"]
 company: ITMO
 currently_learning: ["Python", "Rust"]
 will_learn: ["Machine Learning"]
-hobbies: ["Violin", "Guitar", "Gaming addict", "Reading Manga"]
+hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 ```
+<p align="center">
+  <img width="300px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi-funny.gif"/>
+</p>
 
 ## I love music 🎧
 
@@ -83,6 +86,7 @@ No activity tracked
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+ 
 ## Contact me 📞
 <a href="https://steamcommunity.com/id/BatyaLenin/">
   <img alt="Romariok's Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
@@ -96,6 +100,6 @@ No activity tracked
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
+  <img width="200px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
