@@ -11,6 +11,8 @@ will_learn: ["Machine Learning"]
 hobbies: ["Violin", "Guitar", "Gaming addict", "Reading Manga"]
 ```
 
+## I love music 🎧
+
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=312s5gukxu3izmomfk6sjce5wzo4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
@@ -75,7 +77,7 @@ No activity tracked
 <!--END_SECTION:waka-simple-->
 
 
-## Language and Tools 
+## Language and Tools 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -94,5 +96,6 @@ No activity tracked
 
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
