@@ -72,7 +72,7 @@ mathematical-statistics  1 min               █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 05 February 2024
+From: 28 January 2024 - To: 06 February 2024
 
 Total Time: 7 hrs 31 mins
 
