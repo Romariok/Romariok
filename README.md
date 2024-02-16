@@ -74,7 +74,7 @@ algorithms_data_structure0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 14 February 2024
+From: 28 January 2024 - To: 15 February 2024
 
 Total Time: 19 hrs 53 mins
 
