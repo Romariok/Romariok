@@ -74,7 +74,7 @@ Computational-mathematics15 mins             █████░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 27 February 2024
+From: 28 January 2024 - To: 28 February 2024
 
 Total Time: 30 hrs 18 mins
 
