@@ -76,7 +76,7 @@ Probability-theory       0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 10 March 2024
+From: 28 January 2024 - To: 11 March 2024
 
 Total Time: 53 hrs 7 mins
 
