@@ -107,9 +107,11 @@ TeX              25 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img alt="Romariok's Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:alexeasy11@gmail.com">
-  <img alt="Romariok's Discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Romariok's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<a href="https://kuroshlep.t.me">
+  <img alt="Romariok's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
