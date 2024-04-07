@@ -79,7 +79,7 @@ Fundamentals-of-Software-14 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 05 April 2024
+From: 28 January 2024 - To: 06 April 2024
 
 Total Time: 97 hrs 40 mins
 
