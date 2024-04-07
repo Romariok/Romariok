@@ -11,6 +11,10 @@ will_learn: ["Rust"]
 hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 ```
 <p align="center">
+‼️ <b>Любое копирование материалов целиком или частично,<br>но без ссылки на автора, является кражей интеллектуальной собственности.<br>Это плагиат, за который из ИТМО отчисляют.</b> ‼️ 
+</p>
+
+<p align="center">
   <img width="300px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi-funny.gif"/>
 </p>
 
