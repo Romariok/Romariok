@@ -79,7 +79,7 @@ rust_calculator          1 hr 20 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 17 April 2024
+From: 28 January 2024 - To: 18 April 2024
 
 Total Time: 131 hrs 4 mins
 
