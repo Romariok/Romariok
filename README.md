@@ -78,7 +78,7 @@ cpu_python               3 hrs 40 mins       █████░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 30 April 2024
+From: 28 January 2024 - To: 01 May 2024
 
 Total Time: 173 hrs 49 mins
 
