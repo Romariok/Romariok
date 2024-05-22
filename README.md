@@ -81,7 +81,7 @@ virtual_synthesizer      1 hr 50 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 20 May 2024
+From: 28 January 2024 - To: 21 May 2024
 
 Total Time: 233 hrs 49 mins
 
