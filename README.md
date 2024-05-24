@@ -81,7 +81,7 @@ Optimisation-methods     1 hr 10 mins        █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 22 May 2024
+From: 28 January 2024 - To: 23 May 2024
 
 Total Time: 236 hrs 51 mins
 
