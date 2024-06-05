@@ -78,7 +78,7 @@ grad                     12 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 03 June 2024
+From: 28 January 2024 - To: 04 June 2024
 
 Total Time: 243 hrs 56 mins
 
