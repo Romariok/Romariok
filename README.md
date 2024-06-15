@@ -77,7 +77,7 @@ mathematical-statistics  0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 13 June 2024
+From: 28 January 2024 - To: 14 June 2024
 
 Total Time: 244 hrs 57 mins
 
