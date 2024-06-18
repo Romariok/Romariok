@@ -78,7 +78,7 @@ ml-courses               8 mins              █████░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 16 June 2024
+From: 28 January 2024 - To: 17 June 2024
 
 Total Time: 245 hrs 30 mins
 
