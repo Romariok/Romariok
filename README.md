@@ -75,7 +75,7 @@ t1-academy               32 mins             ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 20 June 2024
+From: 28 January 2024 - To: 21 June 2024
 
 Total Time: 245 hrs 30 mins
 
