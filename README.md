@@ -28,7 +28,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 > 📦 219.8 kB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +47,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-🌃 Evening                321 commits         ███████████████░░░░░░░░░░   60.11 % 
-🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌆 Daytime                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+🌃 Evening                322 commits         ███████████████░░░░░░░░░░   60.19 % 
+🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
 ```
 
 
@@ -60,14 +60,14 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-Python                   24 mins             █████████████████████████   100.00 % 
+Python                   1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ml-courses               24 mins             █████████████████████████   100.00 % 
+ml-courses               1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2024 12:19:48 UTC
+ Last Updated on 10/07/2024 12:19:09 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
