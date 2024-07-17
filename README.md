@@ -28,7 +28,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 > 📦 236.0 kB Used in GitHub's Storage 
  > 
-> 🏆 335 Contributions in the Year 2024
+> 🏆 336 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +47,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-🌆 Daytime                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌃 Evening                328 commits         ███████████████░░░░░░░░░░   60.52 % 
-🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌆 Daytime                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+🌃 Evening                329 commits         ███████████████░░░░░░░░░░   60.59 % 
+🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 ```
 
 
@@ -60,15 +60,15 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ████████████████████████░   97.85 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   5 hrs 47 mins       ████████████████████████░   97.34 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🐱‍💻 Projects: 
-ml-courses               7 hrs 20 mins       █████████████████████████   100.00 % 
+ml-courses               5 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/07/2024 12:19:28 UTC
+ Last Updated on 17/07/2024 12:19:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
