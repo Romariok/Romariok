@@ -36,7 +36,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 > 📦 236.1 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2024
+> 🏆 372 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +47,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-🌆 Daytime                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-🌃 Evening                364 commits         ████████████████░░░░░░░░░   62.98 % 
-🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+🌆 Daytime                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+🌃 Evening                365 commits         ████████████████░░░░░░░░░   63.04 % 
+🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
 ```
 
 
@@ -60,14 +60,16 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 3 mins         ███████████████████████░░   90.61 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ml-courses               1 hr 9 mins         █████████████████████████   99.90 % 
+Programming-languages    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 21/08/2024 12:19:02 UTC
+ Last Updated on 22/08/2024 12:19:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
