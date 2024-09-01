@@ -34,9 +34,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 
 **🐱 My GitHub Data** 
 
-> 📦 236.0 kB Used in GitHub's Storage 
- > 
-> 🏆 381 Contributions in the Year 2024
+> 📦 236.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +45,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-🌆 Daytime                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌃 Evening                374 commits         ████████████████░░░░░░░░░   63.61 % 
-🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+🌆 Daytime                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌃 Evening                375 commits         ████████████████░░░░░░░░░   63.67 % 
+🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
 ```
 
 
@@ -67,7 +65,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2024 12:18:25 UTC
+ Last Updated on 01/09/2024 12:18:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
