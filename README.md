@@ -6,9 +6,8 @@ located_in: Saint-Petersburg
 from: Irkutsk (Russia)
 education: ["Bachelor's in soft engineering"]
 company: ITMO
-currently_learning: ["Python", "ML"]
-will_learn: ["Rust"]
-hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime"]
+currently_learning: ["Elixir"]
+hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 ```
 <p align="center">
 ‼️ <b>Любое копирование материалов целиком или частично,<br>но без ссылки на автора, является кражей интеллектуальной собственности.<br>Это плагиат, за который из ИТМО отчисляют.</b> ‼️ 
