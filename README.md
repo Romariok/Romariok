@@ -33,9 +33,9 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 **🐱 My GitHub Data** 
 
-> 📦 236.1 kB Used in GitHub's Storage 
+> 📦 238.1 kB Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2024
+> 🏆 406 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,10 +46,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-🌆 Daytime                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-🌃 Evening                384 commits         ████████████████░░░░░░░░░   64.21 % 
-🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+🌆 Daytime                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌃 Evening                397 commits         ████████████████░░░░░░░░░   64.76 % 
+🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
 ```
 
 
@@ -59,14 +59,16 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 5 mins         ████████████████████░░░░░   80.43 % 
+YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Functional-Programming   1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/09/2024 12:21:24 UTC
+ Last Updated on 10/09/2024 12:22:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
