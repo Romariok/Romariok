@@ -27,7 +27,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 > 📦 238.1 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2024
+> 🏆 417 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,10 +46,10 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-🌆 Daytime                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌃 Evening                397 commits         ████████████████░░░░░░░░░   64.76 % 
-🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+🌆 Daytime                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌃 Evening                408 commits         ████████████████░░░░░░░░░   65.38 % 
+🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 ```
 
 
@@ -59,16 +59,17 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ████████████████████░░░░░   80.43 % 
-YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 2 hrs 14 mins       █████████████████████░░░░   84.14 % 
+YAML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Elixir                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-Functional-Programming   1 hr 21 mins        █████████████████████████   100.00 % 
+Functional-Programming   2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/09/2024 12:22:15 UTC
+ Last Updated on 11/09/2024 12:20:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
