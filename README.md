@@ -75,7 +75,7 @@ Functional-Programming   2 hrs 40 mins       ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 28 January 2024 - To: 10 September 2024
+From: 28 January 2024 - To: 11 September 2024
 
 Total Time: 265 hrs 6 mins
 
