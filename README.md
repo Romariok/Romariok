@@ -27,13 +27,15 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 238.1 kB Used in GitHub's Storage 
  > 
-> 🏆 452 Contributions in the Year 2024
+> 🏆 453 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,8 +43,37 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 25/09/2024 12:21:46 UTC
+```text
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                417 commits         ████████████████░░░░░░░░░   63.28 % 
+🌃 Evening                159 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+C                        12 hrs 36 mins      ███████████████████░░░░░░   75.17 % 
+Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Perl                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Prolog                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+
+🐱‍💻 Projects: 
+assignment-1-elf64-loader12 hrs 45 mins      ███████████████████░░░░░░   76.05 % 
+AI-System                2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+sdcloud.hg               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+```
+
+
+ Last Updated on 26/09/2024 12:21:54 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
