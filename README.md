@@ -25,21 +25,6 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 January 2024 - To: 15 October 2024
-
-Total Time: 388 hrs 3 mins
-
-Python            183 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.26 %
-C++               44 hrs 29 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.46 %
-Elixir            26 hrs 49 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.91 %
-TypeScript        25 hrs 4 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.46 %
-Markdown          18 hrs 23 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.74 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
 
