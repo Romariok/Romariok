@@ -5,8 +5,7 @@ located_in: Saint-Petersburg
 from: Irkutsk (Russia)
 education: ["Bachelor's in soft engineering"]
 company: ITMO
-currently_learning: ["Elixir"]
-hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
+hobbies: ["Violin", "Guitar", "Gaming addict", "Music"]
 ```
 <p align="center">
 ‼️ <b>Любое копирование материалов целиком или частично,<br>но без ссылки на автора, является кражей интеллектуальной собственности.<br>Это плагиат, за который из ИТМО отчисляют.</b> ‼️ 
@@ -26,12 +25,11 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Watching Anime", "Music"]
 
 ![](https://komarev.com/ghpvc/?username=Romariok&color=blue)
 
-[![Actions Status](https://github.com/Romariok/Romariok/workflows/wakatime-stats/badge.svg)](https://github.com/Romariok/Romariok/actions)
   
 ## Language and Tools 🛠️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariok&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romariok&hide=jupyter%20notebook&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs">
 </p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
