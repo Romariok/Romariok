@@ -40,25 +40,16 @@ hobbies: ["Violin", "Guitar", "Gaming addict", "Music"]
  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
  
 ## Contact me 📞
-<a href="https://steamcommunity.com/id/BatyaLenin/">
-  <img alt="Romariok's Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
-<a href="https://discordapp.com/users/395575522798731265/">
-  <img alt="Romariok's Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 <a href="mailto:alexeasy11@gmail.com">
   <img alt="Romariok's Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://kuroshlep.t.me">
+<a href="https://t.me/romatiqe">
   <img alt="Romariok's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/Romariok/Romariok/main/assets/yoshi_dance.gif"/>
   
-  <br/>
-   Leave a ⭐ if you like it
-  <br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
