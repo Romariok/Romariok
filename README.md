@@ -4,7 +4,7 @@ name: Kobelev Roman
 located_in: Saint-Petersburg
 from: Irkutsk (Russia)
 education: ["Bachelor's in soft engineering"]
-company: ITMO
+company: Yandex
 hobbies: ["Violin", "Guitar", "Gaming addict", "Music"]
 ```
 <p align="center">
